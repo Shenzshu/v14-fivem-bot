@@ -81,7 +81,7 @@ Bu proje MIT Lisansı adı altında korunmaktadır. Lisans hakkında daha fazla 
 Yeni özellik önerileri de memnuniyetle değerlendirilmektedir.
 </div>
 
-# Komut Görselleri 
+# Sistem Ve Komut Görselleri 
 
 <details>
   <summary>Ticket Sistemi</summary>
