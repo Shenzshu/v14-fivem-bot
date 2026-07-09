@@ -69,10 +69,6 @@ Bu projenin geliştirilmesinde destek olan herkese teşekkür ederim.
 
 ---
 
-# 🐞 Hata Bildirimi
-
-Yeni özellik önerileri de memnuniyetle değerlendirilmektedir.
-
 ---
 
 # 📜 Lisans
@@ -84,5 +80,5 @@ Bu proje MIT Lisansı adı altında korunmaktadır. Lisans hakkında daha fazla 
 <div align="center">
 
 **Bir ⭐ bırakarak projeye destek olabilirsiniz.**
-
+Yeni özellik önerileri de memnuniyetle değerlendirilmektedir.
 </div>
