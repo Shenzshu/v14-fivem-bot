@@ -61,7 +61,7 @@ Bu projenin geliştirilmesinde destek olan herkese teşekkür ederim.
 ## Contributors
 
 * Kod desteği:
-[`Fhoozy`](https://discord.com/users/742612162752544892))
+[`Fhoozy`](https://discord.com/users/742612162752544892)
 [`Passenger`](https://github.com/Passengerrr) 
 
 
@@ -71,7 +71,6 @@ Bu projenin geliştirilmesinde destek olan herkese teşekkür ederim.
 ---
 
 # 🐞 Hata Bildirimi
-
 
 Yeni özellik önerileri de memnuniyetle değerlendirilmektedir.
 
