@@ -60,9 +60,8 @@ Bu projenin geliştirilmesinde destek olan herkese teşekkür ederim.
 
 ## Contributors
 
-* @GitHubKullaniciAdi — Kod desteği
-* @GitHubKullaniciAdi — Test süreçleri
-* @GitHubKullaniciAdi — Fikir ve öneriler
+* @Passengerrr & @Fhoozy — Kod desteği
+* @Fhoozy — Alt Yapı Desteği
 
 ---
 
