@@ -69,8 +69,6 @@ Bu projenin geliştirilmesinde destek olan herkese teşekkür ederim.
 
 ---
 
----
-
 # 📜 Lisans
 
 Bu proje MIT Lisansı adı altında korunmaktadır. Lisans hakkında daha fazla bilgi almak için [MIT License](https://github.com/Shenzshu/v14-fivem-bot?tab=MIT-1-ov-file) sayfasına göz atabilirsiniz.
@@ -82,3 +80,33 @@ Bu proje MIT Lisansı adı altında korunmaktadır. Lisans hakkında daha fazla 
 **Bir ⭐ bırakarak projeye destek olabilirsiniz.**
 Yeni özellik önerileri de memnuniyetle değerlendirilmektedir.
 </div>
+
+# Komut Görselleri 
+
+details>
+  <summary>Ticket Sistemi</summary>
+</details>
+
+details>
+  <summary>İngame Sistemi</summary>
+</details>
+
+details>
+  <summary>Dm Sistemi</summary>
+</details>
+
+<details>
+  <summary>Kurucu Komutları</summary>
+</details>
+
+<details>
+  <summary>Ot Komutları</summary>
+</details>
+
+<details>
+  <summary>Kullanıcı Komutları</summary>
+</details>
+
+<details>
+  <summary>Log Mesajları</summary>
+</details>
