@@ -104,9 +104,5 @@ Yeni özellik önerileri de memnuniyetle değerlendirilmektedir.
 </details>
 
 <details>
-  <summary>Kullanıcı Komutları</summary>
-</details>
-
-<details>
   <summary>Log Mesajları</summary>
 </details>
