@@ -6,7 +6,7 @@
 
 FiveM sunucularını daha kolay yönetebilmeniz için geliştirilen, modern ve özelleştirilebilir bir bottur. Yönetim işlemlerini otomatikleştirir, sunucu personelinin iş yükünü azaltır ve topluluğunuzun daha düzenli yönetilmesini sağlar.
 
-Botlar hakkında daha fazla detaylı bilgi almak istiyorsanız Discord üzerinden benimle ([`bcan`](https://discord.com/users/742612162752544892)) iletişime geçebilirsiniz.  
+Botlar hakkında daha fazla detaylı bilgi almak istiyorsanız Discord üzerinden benimle ([`xnlywin`](https://discord.com/users/742612162752544892)) iletişime geçebilirsiniz.  
 
 ---
 
