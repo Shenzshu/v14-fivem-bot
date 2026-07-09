@@ -60,8 +60,13 @@ Bu projenin geliştirilmesinde destek olan herkese teşekkür ederim.
 
 ## Contributors
 
-* @Passengerrr & @Fhoozy — Kod desteği
-* @Fhoozy — Alt Yapı Desteği
+* Kod desteği:
+[`Fhoozy`](https://discord.com/users/742612162752544892))
+[`Passenger`](https://github.com/Passengerrr) 
+
+
+* Alt Yapı Desteği:
+[`Fhoozy`](https://github.com/Fhoozy)
 
 ---
 
