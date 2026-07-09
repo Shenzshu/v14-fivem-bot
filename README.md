@@ -83,15 +83,15 @@ Yeni özellik önerileri de memnuniyetle değerlendirilmektedir.
 
 # Komut Görselleri 
 
->details>
+<details>
   <summary>Ticket Sistemi</summary>
 </details>
 
->details>
+<details>
   <summary>İngame Sistemi</summary>
 </details>
 
->details>
+<details>
   <summary>Dm Sistemi</summary>
 </details>
 
