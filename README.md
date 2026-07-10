@@ -96,10 +96,6 @@ Yeni özellik önerileri de memnuniyetle değerlendirilmektedir.
 </details>
 
 <details>
-  <summary>Kurucu Komutları</summary>
-</details>
-
-<details>
   <summary>Ot Komutları</summary>
 </details>
 
